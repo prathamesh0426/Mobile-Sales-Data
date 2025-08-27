@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard to analyze and visualize mobile phone sales performance. This dashboard provides detailed insights into sales, transactions, customer ratings, and payment methods across different cities and time periods.
 
-🔹 Features
+## Features
 
 Total Sales & Quantity Overview – Track overall revenue, quantity sold, transactions, and average sales.
 
@@ -18,7 +18,7 @@ Payment Method Breakdown – Pie chart showing transactions via Debit Card, UPI,
 
 Model-wise Sales Comparison – Identify top-performing mobile models.
 
-🔧 Tools Used
+## Tools Used
 
 Power BI – Dashboard creation & visualization
 
@@ -26,7 +26,7 @@ Excel / CSV – Data source (sales transactions)
 
 DAX – For calculated measures and KPIs
 
-📌 Use Cases
+## Use Cases
 
 Business decision-making for sales teams
 
